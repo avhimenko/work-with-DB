@@ -1,3 +1,8 @@
 # work-with-DB
+RU:
 Практическая работа по разработке и операциям с БД
-file:///C:/Users/Student/Desktop/git/%D0%B7%D0%B0%D0%B4%D0%B0%D0%B5%201.1-1.4.pdf - краткое тз для выполнения работы
+[https://disk.yandex.ru/a/MH4e3m5Td-egEQ](https://disk.yandex.ru/a/MH4e3m5Td-egEQ)https://disk.yandex.ru/a/MH4e3m5Td-egEQ - ссылка на краткое тз для выполнения работы
+EN:
+Work with creating DataBases & operations
+[https://disk.yandex.ru/a/MH4e3m5Td-egEQ](https://disk.yandex.ru/a/MH4e3m5Td-egEQ)https://disk.yandex.ru/a/MH4e3m5Td-egEQ - link for short technical requriments to complete the task 
+
